@@ -1,6 +1,6 @@
 # 📊 Criação de um Dashboard
 
-Este projeto é um **web app interativo** criado com a biblioteca **Streamlit**, utilizando dados reais para gerar visualizações e análises dinâmicas.
+Este projeto é um **web app interativo** criado com a biblioteca **Streamlit**, utilizando dados fornecidos pela plataforma **Kaggle**
 
 ## 🌐 Acesse o App
 
@@ -11,7 +11,7 @@ Este projeto é um **web app interativo** criado com a biblioteca **Streamlit**,
 ## 🎯 Habilidades adquiridas
 - Análise de dados, tratamento de dados e estatística
 - Leitura e manipulação de dados com **Pandas**
-- Criação de gráficos com **Matplotlib** e **Plotly**
+- Criação de gráficos com **Matplotlib**, **Plotly** e **Seaborn**
 - Desenvolvimento de **aplicações web** com **Streamlit**
 
 ---
